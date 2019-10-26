@@ -1,10 +1,10 @@
 package routers
 
 import (
-	"github.com/TruthHun/DocHub/controllers/AdminControllers"
+	"MaizeHub/controllers/AdminControllers"
 
-	"github.com/TruthHun/DocHub/controllers/HomeControllers"
-	"github.com/TruthHun/DocHub/helper"
+	"MaizeHub/controllers/HomeControllers"
+	"MaizeHub/helper"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
 )

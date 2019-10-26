@@ -3,8 +3,8 @@ package HomeControllers
 import (
 	"time"
 
-	"github.com/TruthHun/DocHub/helper"
-	"github.com/TruthHun/DocHub/models"
+	"MaizeHub/helper"
+	"MaizeHub/models"
 	"github.com/astaxie/beego/orm"
 )
 

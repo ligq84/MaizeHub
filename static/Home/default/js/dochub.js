@@ -5,7 +5,7 @@
  * */
 'use strict';
 $(function(){
-    console.log("Powered By DocHub");
+    console.log("Powered By MaizeHub");
 
     
     $(".go-top").click(function(){

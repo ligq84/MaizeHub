@@ -12,7 +12,7 @@ import (
 
 	"github.com/astaxie/beego"
 
-	"github.com/TruthHun/DocHub/helper"
+	"MaizeHub/helper"
 	"github.com/astaxie/beego/orm"
 )
 

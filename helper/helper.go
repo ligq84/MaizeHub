@@ -36,8 +36,8 @@ import (
 
 	"path/filepath"
 
+	"MaizeHub/helper/crawl"
 	"github.com/PuerkitoBio/goquery"
-	"github.com/TruthHun/DocHub/helper/crawl"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/cache"
 	"github.com/disintegration/imaging"

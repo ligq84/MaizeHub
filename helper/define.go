@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	//DocHub Version
+	//MaizeHub Version
 	VERSION = "v2.4"
 	//Cache Config
 	CACHE_CONF = `{"CachePath":"./cache/runtime","FileSuffix":".cache","DirectoryLevel":2,"EmbedExpiry":120}`

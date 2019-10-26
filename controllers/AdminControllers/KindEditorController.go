@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/TruthHun/DocHub/helper"
-	"github.com/TruthHun/DocHub/models"
+	"MaizeHub/helper"
+	"MaizeHub/models"
 )
 
 type KindEditorController struct {

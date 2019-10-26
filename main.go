@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/TruthHun/DocHub/controllers/HomeControllers"
-	"github.com/TruthHun/DocHub/helper"
-	"github.com/TruthHun/DocHub/models"
-	_ "github.com/TruthHun/DocHub/routers"
+	"MaizeHub/controllers/HomeControllers"
+	"MaizeHub/helper"
+	"MaizeHub/models"
+	_ "MaizeHub/routers"
 	"github.com/astaxie/beego"
 )
 
@@ -14,7 +14,7 @@ import (
 func init() {
 
 	fmt.Println("")
-	fmt.Println("Powered By DocHub")
+	fmt.Println("Powered By MaizeHub")
 	fmt.Println("Version:", helper.VERSION)
 	fmt.Println("")
 

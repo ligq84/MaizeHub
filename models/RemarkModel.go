@@ -6,7 +6,7 @@ import (
 
 	"time"
 
-	"github.com/TruthHun/DocHub/helper"
+	"MaizeHub/helper"
 	"github.com/astaxie/beego/orm"
 )
 
